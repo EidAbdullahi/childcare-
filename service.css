@@ -1,0 +1,142 @@
+a :focus{
+  outline: 0 solid}
+  img{
+      max-width: 100%;
+      height: auto;
+  }
+  h1{
+      margin: 0 0 15px;
+      font-weight: 700;
+  }
+  html,
+  body{ height: 100%;
+  }
+  body{
+      background: #ddd;
+      font-family: poppins;
+  }
+  a:hover{
+      text-decoration: none;
+  }
+  .section-header{
+      text-align: center;
+      margin-bottom: 30px;
+      margin-top: 15px;
+  }
+  .section header p{
+      font-size: 15px;
+  }
+  .single-service{
+      border:1px solid #ebebeb;
+      text-align: center;
+      background: #fff;
+  }
+  .service-bg {
+      height: 200px;
+      position: relative;
+  }
+  .service-bg-1{
+      background-image: url(./images/anna-earl-XBDHmIXvsvM-unsplash.jpg);
+      background-size: cover;
+      background-position: center;
+  }
+  .service-bg-2{
+      background-image: url(./images/mi-pham-xtd3zYWxEs4-unsplash.jpg);
+      background-size: cover;
+      background-position: center;
+  }
+  .service-bg-3 {
+      background-image: url(./images/seth-doyle-YEK-1BZ7L1s-unsplash.jpg);
+      background-size: cover;
+      background-position: center;
+  }
+  h1{
+      color: #fff;
+      background: tomato;
+      border: 2px solid tomato;
+      font-size: 30px;
+      text-align: center;
+      font-weight: 700;
+      padding: 5px;
+      width: 84%;
+      margin: 0;
+      border-radius: 50px;
+  }
+.single-text{
+  padding: 50px 30px;
+  font-size: 15px;
+  font-weight: 400;
+}
+.btn-area{
+  display: inline-block;
+  color: #333;
+  font-size: 17px;
+  font-weight: 700;
+}
+@media only screen and (max-width:767px) {
+  .single-service{
+      margin-top: 30px;
+  }
+}
+h2{
+  text-align: center;
+  background-color: cyan;
+  border-radius: 100PX;
+}
+.foot {
+  background-color: cyan;
+}
+.base{
+  background-color: aqua;
+}
+.para{
+  background-color: aquamarine;
+}
+.header {
+  overflow: hidden;
+  background-color:black;
+  width: 100%;
+  margin-top: 0px;
+}
+.header a {
+  float: left;
+  color: white;
+  font-size: 30px;
+  text-align: center;
+  padding: 25px 80px;
+  text-decoration: none;
+  font-size: 25px;
+  text-decoration-color: blanchedalmond;
+  }
+.header a:hover {
+  background-color: red;
+  color:white
+}
+.header a.active {
+  background-color: blue;
+  color: white;
+}
+#aa{
+color: greenyellow;
+background-color: blueviolet;
+}
+#bb{
+color: crimson;
+background-color: darkkhaki;
+}
+#myCarousel{
+ margin-top: 3%;
+}
+.h1{
+ color: black;
+ background-color: white;
+}
+#h1{
+ background-color: black;
+ color: white;
+}
+#h2{
+ color:white;
+ background-color: black;
+}
+
